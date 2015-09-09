@@ -12,7 +12,7 @@ To get started, install `Vagrant <http://www.vagrantup.com/>`_,
 and `Ansible <http://docs.ansible.com/intro_installation.html>`_.
 It's then a matter of cloning this repository and running ``vagrant up``: ::
 
-    git clone https://github.com/Kitware/tangelothub.git
+    git clone https://github.com/Kitware/tangelohub.git
     cd tangelohub
     vagrant up
 
